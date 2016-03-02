@@ -5,6 +5,8 @@
 ## Marco A Olayo Pastor
 Colaborando en README
 
+## Eduardo
+Hey
 ## Getting Started
 
 To use this theme, choose one of the following options to get started:
