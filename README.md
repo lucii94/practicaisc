@@ -14,6 +14,7 @@ To use this theme, choose one of the following options to get started:
 * Fork this repository on GitHub
 
 ## Creator
+# Holaaa! :3
 
 Start Bootstrap was created by and is maintained by **David Miller**
 
